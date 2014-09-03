@@ -1,0 +1,6 @@
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\Network_Security\Star_Transposition\Star_Transposition\bin\Debug\Star_Transposition.exe.config
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\Network_Security\Star_Transposition\Star_Transposition\bin\Debug\Star_Transposition.exe
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\Network_Security\Star_Transposition\Star_Transposition\bin\Debug\Star_Transposition.pdb
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\Network_Security\Star_Transposition\Star_Transposition\obj\Debug\Star_Transposition.csprojResolveAssemblyReference.cache
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\Network_Security\Star_Transposition\Star_Transposition\obj\Debug\Star_Transposition.exe
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\Network_Security\Star_Transposition\Star_Transposition\obj\Debug\Star_Transposition.pdb
